@@ -1,0 +1,14 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingingTheUnhandledException\bin\Debug\LoggingingTheUnhandledException.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingingTheUnhandledException\bin\Debug\LoggingingTheUnhandledException.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingingTheUnhandledException\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingingTheUnhandledException\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingingTheUnhandledException\obj\x86\Debug\LoggingingTheUnhandledException.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingingTheUnhandledException\obj\x86\Debug\LoggingingTheUnhandledException.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingingTheUnhandledException\bin\Debug\LoggingingTheUnhandledException.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingingTheUnhandledException\bin\Debug\LoggingingTheUnhandledException.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingingTheUnhandledException\bin\Debug\LoggingingTheUnhandledException.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingingTheUnhandledException\bin\Debug\LoggingingTheUnhandledException.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingingTheUnhandledException\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingingTheUnhandledException\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingingTheUnhandledException\obj\x86\Debug\LoggingingTheUnhandledException.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingingTheUnhandledException\obj\x86\Debug\LoggingingTheUnhandledException.pdb

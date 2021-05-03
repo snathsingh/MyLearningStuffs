@@ -1,0 +1,16 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingExceptions\bin\Debug\LoggingExceptions.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingExceptions\bin\Debug\LoggingExceptions.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingExceptions\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingExceptions\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingExceptions\obj\x86\Debug\LoggingExceptions.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingExceptions\obj\x86\Debug\LoggingExceptions.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingExceptions\obj\x86\Debug\LoggingExceptions.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingExceptions\bin\Debug\LoggingExceptions.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingExceptions\bin\Debug\LoggingExceptions.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingExceptions\bin\Debug\LoggingExceptions.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingExceptions\bin\Debug\LoggingExceptions.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingExceptions\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingExceptions\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingExceptions\obj\x86\Debug\LoggingExceptions.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingExceptions\obj\x86\Debug\LoggingExceptions.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingExceptions\obj\x86\Debug\LoggingExceptions.pdb

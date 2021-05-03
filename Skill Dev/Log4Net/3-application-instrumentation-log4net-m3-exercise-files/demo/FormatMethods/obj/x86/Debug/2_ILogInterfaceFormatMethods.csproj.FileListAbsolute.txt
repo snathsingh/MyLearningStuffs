@@ -1,0 +1,15 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\bin\Debug\2_ILogInterfaceFormatMethods.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\bin\Debug\2_ILogInterfaceFormatMethods.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\bin\Debug\2_ILogInterfaceFormatMethods.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\obj\x86\Debug\2_ILogInterfaceFormatMethods.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\obj\x86\Debug\2_ILogInterfaceFormatMethods.pdb
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\2_XmlConfiguration\bin\Debug\2_ILogInterfaceFormatMethods.exe.config
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\2_XmlConfiguration\bin\Debug\2_ILogInterfaceFormatMethods.exe
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\2_XmlConfiguration\bin\Debug\2_ILogInterfaceFormatMethods.pdb
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\2_XmlConfiguration\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\2_XmlConfiguration\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\2_XmlConfiguration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\2_XmlConfiguration\obj\x86\Debug\2_ILogInterfaceFormatMethods.exe
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\2_XmlConfiguration\obj\x86\Debug\2_ILogInterfaceFormatMethods.pdb

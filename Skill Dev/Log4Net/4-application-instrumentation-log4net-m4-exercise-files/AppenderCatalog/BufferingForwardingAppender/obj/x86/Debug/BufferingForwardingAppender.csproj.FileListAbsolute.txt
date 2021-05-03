@@ -1,0 +1,8 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\BufferingForwardingAppender\bin\Debug\BufferingForwardingAppender.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\BufferingForwardingAppender\bin\Debug\BufferingForwardingAppender.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\BufferingForwardingAppender\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\BufferingForwardingAppender\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\BufferingForwardingAppender\obj\x86\Debug\BufferingForwardingAppender.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\BufferingForwardingAppender\obj\x86\Debug\BufferingForwardingAppender.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\BufferingForwardingAppender\bin\Debug\BufferingForwardingAppender.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\BufferingForwardingAppender\obj\x86\Debug\BufferingForwardingAppender.csprojResolveAssemblyReference.cache

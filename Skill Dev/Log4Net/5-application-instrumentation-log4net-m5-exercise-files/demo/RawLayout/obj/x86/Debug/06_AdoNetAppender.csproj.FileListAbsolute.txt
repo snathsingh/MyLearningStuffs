@@ -1,0 +1,13 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\bin\Debug\AdoNetAppender.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\obj\x86\Debug\AdoNetAppender.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\obj\x86\Debug\AdoNetAppender.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\bin\Debug\AdoNetAppender.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\bin\Debug\AdoNetAppender.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\bin\Debug\System.Data.SQLite.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\obj\x86\Debug\UdpAppender.Properties.Resources.resources
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\AdoNetAppender\obj\x86\Debug\06_AdoNetAppender.csproj.GenerateResource.Cache

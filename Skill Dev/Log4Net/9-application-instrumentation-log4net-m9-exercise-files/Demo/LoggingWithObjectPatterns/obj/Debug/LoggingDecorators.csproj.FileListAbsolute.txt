@@ -1,0 +1,11 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingWithObjectPatterns\bin\Debug\loremipsum.txt
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingWithObjectPatterns\bin\Debug\log4net.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingWithObjectPatterns\bin\Debug\LoggingWithObjectPatterns.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingWithObjectPatterns\bin\Debug\LoggingWithObjectPatterns.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingWithObjectPatterns\bin\Debug\Common.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingWithObjectPatterns\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingWithObjectPatterns\bin\Debug\Common.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingWithObjectPatterns\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingWithObjectPatterns\obj\Debug\LoggingDecorators.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingWithObjectPatterns\obj\Debug\LoggingWithObjectPatterns.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingWithObjectPatterns\obj\Debug\LoggingWithObjectPatterns.pdb

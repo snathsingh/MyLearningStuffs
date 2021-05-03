@@ -1,0 +1,10 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\GenericLogManager\obj\x86\Debug\GenericLogManager.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\GenericLogManager\bin\Debug\log4net.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\GenericLogManager\bin\Debug\GenericLogManager.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\GenericLogManager\bin\Debug\GenericLogManager.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\GenericLogManager\bin\Debug\Common.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\GenericLogManager\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\GenericLogManager\bin\Debug\Common.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\GenericLogManager\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\GenericLogManager\obj\x86\Debug\GenericLogManager.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\GenericLogManager\obj\x86\Debug\GenericLogManager.pdb

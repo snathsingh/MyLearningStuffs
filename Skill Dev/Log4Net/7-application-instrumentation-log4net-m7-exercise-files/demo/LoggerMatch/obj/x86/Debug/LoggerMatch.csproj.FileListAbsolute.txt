@@ -1,0 +1,7 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\LoggerMatch\bin\Debug\LoggerMatch.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\LoggerMatch\bin\Debug\LoggerMatch.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\LoggerMatch\bin\Debug\LoggerMatch.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\LoggerMatch\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\LoggerMatch\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\LoggerMatch\obj\x86\Debug\LoggerMatch.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\LoggerMatch\obj\x86\Debug\LoggerMatch.pdb

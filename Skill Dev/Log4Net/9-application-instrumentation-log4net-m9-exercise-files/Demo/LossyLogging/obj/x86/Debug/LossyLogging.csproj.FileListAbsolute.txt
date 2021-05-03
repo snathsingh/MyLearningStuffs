@@ -1,0 +1,17 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LossyLogging\bin\Debug\LossyLogging.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LossyLogging\bin\Debug\LossyLogging.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LossyLogging\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LossyLogging\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LossyLogging\obj\x86\Debug\LossyLogging.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LossyLogging\obj\x86\Debug\LossyLogging.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LossyLogging\bin\Debug\LossyLogging.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LossyLogging\bin\Debug\LossyLogging.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LossyLogging\bin\Debug\LossyLogging.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LossyLogging\bin\Debug\LossyLogging.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LossyLogging\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LossyLogging\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LossyLogging\obj\x86\Debug\LossyLogging.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LossyLogging\obj\x86\Debug\LossyLogging.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LossyLogging\bin\Debug\LossyLogging.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LossyLogging\obj\x86\Debug\LossyLogging.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LossyLogging\obj\x86\Debug\LossyLogging.pdb

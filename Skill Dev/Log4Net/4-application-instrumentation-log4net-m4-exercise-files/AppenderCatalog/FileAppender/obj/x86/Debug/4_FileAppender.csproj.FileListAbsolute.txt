@@ -1,0 +1,10 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\FileAppender\bin\Debug\FileAppender.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\FileAppender\bin\Debug\FileAppender.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\FileAppender\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\FileAppender\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\FileAppender\obj\x86\Debug\4_FileAppender.csproj.GenerateResource.Cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\FileAppender\obj\x86\Debug\FileAppender.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\FileAppender\obj\x86\Debug\FileAppender.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\FileAppender\bin\Debug\FileAppender.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\FileAppender\obj\x86\Debug\RollingFileAppender.Form1.resources
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\FileAppender\obj\x86\Debug\RollingFileAppender.Properties.Resources.resources

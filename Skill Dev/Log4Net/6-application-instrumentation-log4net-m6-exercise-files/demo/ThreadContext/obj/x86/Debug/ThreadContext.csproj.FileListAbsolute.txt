@@ -1,0 +1,8 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\ThreadContext\obj\x86\Debug\ThreadContext.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\ThreadContext\bin\Debug\ThreadContext.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\ThreadContext\bin\Debug\ThreadContext.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\ThreadContext\bin\Debug\ThreadContext.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\ThreadContext\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\ThreadContext\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\ThreadContext\obj\x86\Debug\ThreadContext.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\ThreadContext\obj\x86\Debug\ThreadContext.pdb

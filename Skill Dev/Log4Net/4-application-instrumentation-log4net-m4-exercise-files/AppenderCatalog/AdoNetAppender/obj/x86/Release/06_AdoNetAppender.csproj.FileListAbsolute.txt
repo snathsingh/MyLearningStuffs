@@ -1,0 +1,15 @@
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\bin\Release\x64\SQLite.Interop.dll
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\bin\Release\x86\SQLite.Interop.dll
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\bin\Release\AdoNetAppender.exe.config
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\bin\Release\AdoNetAppender.exe
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\bin\Release\AdoNetAppender.pdb
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\bin\Release\log4net.dll
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\bin\Release\System.Data.SQLite.dll
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\bin\Release\log4net.xml
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\obj\x86\Release\UdpAppender.Properties.Resources.resources
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\obj\x86\Release\AdoNetAppender.exe
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\AdoNetAppender\obj\x86\Release\AdoNetAppender.pdb

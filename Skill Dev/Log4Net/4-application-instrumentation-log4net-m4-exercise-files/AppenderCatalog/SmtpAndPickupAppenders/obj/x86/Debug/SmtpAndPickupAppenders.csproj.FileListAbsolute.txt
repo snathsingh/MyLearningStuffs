@@ -1,0 +1,10 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\SmtpAndPickupAppenders\bin\Debug\SmtpAndPickupAppenders.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\SmtpAndPickupAppenders\bin\Debug\SmtpAndPickupAppenders.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\SmtpAndPickupAppenders\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\SmtpAndPickupAppenders\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\SmtpAndPickupAppenders\obj\x86\Debug\SmtpAndPickupAppenders.csproj.GenerateResource.Cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\SmtpAndPickupAppenders\obj\x86\Debug\SmtpAndPickupAppenders.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\SmtpAndPickupAppenders\obj\x86\Debug\SmtpAndPickupAppenders.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\SmtpAndPickupAppenders\obj\x86\Debug\UdpAppender.Properties.Resources.resources
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\SmtpAndPickupAppenders\bin\Debug\SmtpAndPickupAppenders.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\SmtpAndPickupAppenders\obj\x86\Debug\SmtpAndPickupAppenders.Form1.resources

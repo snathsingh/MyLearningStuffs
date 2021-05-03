@@ -1,0 +1,7 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\MultipleConfiguration\bin\Debug\AppenderAccumulation.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\MultipleConfiguration\bin\Debug\AppenderAccumulation.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\MultipleConfiguration\bin\Debug\AppenderAccumulation.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\MultipleConfiguration\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\MultipleConfiguration\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\MultipleConfiguration\obj\x86\Debug\AppenderAccumulation.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\MultipleConfiguration\obj\x86\Debug\AppenderAccumulation.pdb

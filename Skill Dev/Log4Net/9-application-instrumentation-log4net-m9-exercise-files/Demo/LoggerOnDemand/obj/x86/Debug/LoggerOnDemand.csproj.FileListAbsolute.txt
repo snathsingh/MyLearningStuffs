@@ -1,0 +1,10 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggerOnDemand\obj\x86\Debug\LoggerOnDemand.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggerOnDemand\bin\Debug\log4net.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggerOnDemand\bin\Debug\LoggerOnDemand.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggerOnDemand\bin\Debug\LoggerOnDemand.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggerOnDemand\bin\Debug\Common.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggerOnDemand\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggerOnDemand\bin\Debug\Common.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggerOnDemand\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggerOnDemand\obj\x86\Debug\LoggerOnDemand.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggerOnDemand\obj\x86\Debug\LoggerOnDemand.pdb

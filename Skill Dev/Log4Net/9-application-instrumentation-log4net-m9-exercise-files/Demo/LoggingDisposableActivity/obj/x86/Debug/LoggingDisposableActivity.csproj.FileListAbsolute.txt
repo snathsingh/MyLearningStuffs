@@ -1,0 +1,10 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingDisposableActivity\bin\Debug\log4net.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingDisposableActivity\bin\Debug\LoggingDisposableActivity.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingDisposableActivity\bin\Debug\LoggingDisposableActivity.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingDisposableActivity\bin\Debug\Common.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingDisposableActivity\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingDisposableActivity\bin\Debug\Common.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingDisposableActivity\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingDisposableActivity\obj\x86\Debug\LoggingDisposableActivity.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingDisposableActivity\obj\x86\Debug\LoggingDisposableActivity.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingDisposableActivity\obj\x86\Debug\LoggingDisposableActivity.pdb

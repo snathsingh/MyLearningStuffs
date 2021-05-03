@@ -1,0 +1,12 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\bin\Debug\UdpAppender.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\bin\Debug\UdpAppender.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\obj\x86\Debug\UdpAppender.Properties.Resources.resources
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\obj\x86\Debug\UdpAppender.csproj.GenerateResource.Cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\obj\x86\Debug\UdpAppender.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\obj\x86\Debug\UdpAppender.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\bin\Debug\UdpAppender.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\obj\x86\Debug\UdpAppender.Form1.resources
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\obj\x86\Debug\UdpAppender.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\UdpAppender\bin\Debug\log4net.pdb

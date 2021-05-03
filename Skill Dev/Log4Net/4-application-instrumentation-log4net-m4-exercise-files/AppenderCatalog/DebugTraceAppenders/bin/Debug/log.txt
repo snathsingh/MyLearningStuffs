@@ -1,0 +1,4 @@
+DebugAndTraceAppenders.Program: DEBUG - Starting program
+DebugAndTraceAppenders.Form1: INFO - Creating form
+DebugAndTraceAppenders.Form1: INFO - this custom message
+DebugAndTraceAppenders.Program: DEBUG - Exiting program

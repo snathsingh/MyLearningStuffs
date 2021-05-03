@@ -1,0 +1,12 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\ConfigureInCode\bin\Debug\ConfigureInCode.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\ConfigureInCode\bin\Debug\ConfigureInCode.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\ConfigureInCode\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\ConfigureInCode\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\ConfigureInCode\obj\x86\Debug\ConfigureInCode.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\ConfigureInCode\obj\x86\Debug\ConfigureInCode.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\ConfigureInCode\bin\Debug\ConfigureInCode.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\ConfigureInCode\bin\Debug\ConfigureInCode.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\ConfigureInCode\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\ConfigureInCode\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\ConfigureInCode\obj\x86\Debug\ConfigureInCode.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\ConfigureInCode\obj\x86\Debug\ConfigureInCode.pdb

@@ -1,0 +1,10 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\DeferredLogging\obj\x86\Debug\DeferredLogging.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\DeferredLogging\bin\Debug\log4net.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\DeferredLogging\bin\Debug\DeferredLogging.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\DeferredLogging\bin\Debug\DeferredLogging.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\DeferredLogging\bin\Debug\Common.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\DeferredLogging\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\DeferredLogging\bin\Debug\Common.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\DeferredLogging\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\DeferredLogging\obj\x86\Debug\DeferredLogging.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\DeferredLogging\obj\x86\Debug\DeferredLogging.pdb

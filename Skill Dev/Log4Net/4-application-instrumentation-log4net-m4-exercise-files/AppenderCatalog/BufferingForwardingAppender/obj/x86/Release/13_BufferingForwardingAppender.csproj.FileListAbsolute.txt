@@ -1,0 +1,8 @@
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\BufferingForwardingAppender\bin\Release\BufferingForwardingAppender.exe.config
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\BufferingForwardingAppender\bin\Release\BufferingForwardingAppender.exe
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\BufferingForwardingAppender\bin\Release\BufferingForwardingAppender.pdb
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\BufferingForwardingAppender\bin\Release\log4net.dll
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\BufferingForwardingAppender\bin\Release\log4net.xml
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\BufferingForwardingAppender\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\BufferingForwardingAppender\obj\x86\Release\BufferingForwardingAppender.exe
+C:\Users\beefarino\Documents\Pluralsight\demo\AppenderCatalog\BufferingForwardingAppender\obj\x86\Release\BufferingForwardingAppender.pdb

@@ -1,0 +1,3 @@
+DEBUG - Starting program
+INFO - Creating form
+DEBUG - Exiting program

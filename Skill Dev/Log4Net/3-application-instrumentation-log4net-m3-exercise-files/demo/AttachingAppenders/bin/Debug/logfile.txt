@@ -1,0 +1,5 @@
+MultipleLoggerObjects.OtherLogger [DEBUG]- This is a [Debug] level logging event
+MultipleLoggerObjects.OtherLogger [INFO]- This is a [Info] level logging event
+MultipleLoggerObjects.OtherLogger [WARN]- This is a [Warn] level logging event
+MultipleLoggerObjects.OtherLogger [ERROR]- This is a [Error] level logging event
+MultipleLoggerObjects.OtherLogger [FATAL]- This is a [Fatal] level logging event

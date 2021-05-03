@@ -1,0 +1,16 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\2_XmlConfiguration\bin\Debug\2_XmlConfiguration.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\2_XmlConfiguration\bin\Debug\2_XmlConfiguration.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\2_XmlConfiguration\bin\Debug\2_XmlConfiguration.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\2_XmlConfiguration\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\2_XmlConfiguration\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\2_XmlConfiguration\obj\x86\Debug\2_XmlConfiguration.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\2_XmlConfiguration\obj\x86\Debug\2_XmlConfiguration.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\2_XmlConfiguration\obj\x86\Debug\2_XmlConfiguration.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\bin\Debug\2_XmlConfiguration.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\bin\Debug\2_XmlConfiguration.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\bin\Debug\2_XmlConfiguration.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\obj\x86\Debug\2_XmlConfiguration.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\obj\x86\Debug\2_XmlConfiguration.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\2_XmlConfiguration\obj\x86\Debug\2_XmlConfiguration.pdb

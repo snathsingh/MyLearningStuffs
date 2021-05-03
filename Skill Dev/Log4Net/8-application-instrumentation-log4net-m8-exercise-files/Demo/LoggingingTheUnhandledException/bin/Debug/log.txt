@@ -1,0 +1,3 @@
+ERROR - A fatal unhandled exception has occurred
+System.ApplicationException: This will end the process!
+   at LoggingingTheUnhandledException.Program.Main(String[] args) in C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingingTheUnhandledException\Program.cs:line 20

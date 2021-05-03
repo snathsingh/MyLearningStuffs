@@ -1,0 +1,8 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\bin\Debug\EventContext.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\bin\Debug\EventContext.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\bin\Debug\EventContext.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\obj\x86\Debug\EventContext.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\obj\x86\Debug\EventContext.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\EventContext\demo\EventContext\obj\x86\Debug\EventContext.pdb

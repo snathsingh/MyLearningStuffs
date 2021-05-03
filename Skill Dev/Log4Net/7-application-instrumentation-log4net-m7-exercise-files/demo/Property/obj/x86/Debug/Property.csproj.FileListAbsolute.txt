@@ -1,0 +1,7 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\Property\bin\Debug\Property.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\Property\bin\Debug\Property.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\Property\bin\Debug\Property.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\Property\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\Property\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\Property\obj\x86\Debug\Property.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\Property\obj\x86\Debug\Property.pdb

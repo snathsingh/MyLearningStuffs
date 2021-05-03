@@ -1,0 +1,7 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\5_NamingConvention\bin\Debug\NamingConvention.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\5_NamingConvention\bin\Debug\NamingConvention.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\5_NamingConvention\bin\Debug\NamingConvention.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\5_NamingConvention\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\5_NamingConvention\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\5_NamingConvention\obj\x86\Debug\NamingConvention.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\5_NamingConvention\obj\x86\Debug\NamingConvention.pdb

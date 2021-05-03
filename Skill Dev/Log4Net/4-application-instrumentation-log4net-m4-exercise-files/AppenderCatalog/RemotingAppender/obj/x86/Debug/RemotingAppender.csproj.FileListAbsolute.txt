@@ -1,0 +1,10 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\RemotingAppender\bin\Debug\RemotingAppender.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\RemotingAppender\bin\Debug\RemotingAppender.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\RemotingAppender\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\RemotingAppender\obj\x86\Debug\RemotingAppender.csproj.GenerateResource.Cache
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\RemotingAppender\obj\x86\Debug\RemotingAppender.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\RemotingAppender\obj\x86\Debug\RemotingAppender.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\RemotingAppender\bin\Debug\RemotingAppender.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\RemotingAppender\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\RemotingAppender\obj\x86\Debug\UdpAppender.Form1.resources
+C:\Users\beefarino\Documents\PluralSight\log4net\Appenders\demo\AppenderCatalog\RemotingAppender\obj\x86\Debug\UdpAppender.Properties.Resources.resources

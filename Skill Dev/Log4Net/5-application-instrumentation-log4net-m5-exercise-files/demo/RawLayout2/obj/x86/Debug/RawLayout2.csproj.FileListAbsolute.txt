@@ -1,0 +1,13 @@
+C:\Users\beefarino\Documents\Pluralsight\demo\RawLayout2\bin\Debug\RawLayout2.exe.config
+C:\Users\beefarino\Documents\Pluralsight\demo\RawLayout2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\Pluralsight\demo\RawLayout2\bin\Debug\RawLayout2.exe
+C:\Users\beefarino\Documents\Pluralsight\demo\RawLayout2\bin\Debug\RawLayout2.pdb
+C:\Users\beefarino\Documents\Pluralsight\demo\RawLayout2\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\Pluralsight\demo\RawLayout2\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\Pluralsight\demo\RawLayout2\obj\x86\Debug\RawLayout2.exe
+C:\Users\beefarino\Documents\Pluralsight\demo\RawLayout2\obj\x86\Debug\RawLayout2.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\RawLayout2\bin\Debug\RawLayout2.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\RawLayout2\bin\Debug\RawLayout2.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\RawLayout2\bin\Debug\RawLayout2.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\RawLayout2\obj\x86\Debug\RawLayout2.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\RawLayout2\obj\x86\Debug\RawLayout2.pdb

@@ -1,0 +1,17 @@
+C:\Users\beefarino\Documents\Pluralsight\demo\XmlLayout\bin\Debug\XmlLayout.exe.config
+C:\Users\beefarino\Documents\Pluralsight\demo\XmlLayout\obj\x86\Debug\XmlLayout.exe
+C:\Users\beefarino\Documents\Pluralsight\demo\XmlLayout\obj\x86\Debug\XmlLayout.pdb
+C:\Users\beefarino\Documents\Pluralsight\demo\XmlLayout\bin\Debug\XmlLayout.exe
+C:\Users\beefarino\Documents\Pluralsight\demo\XmlLayout\bin\Debug\XmlLayout.pdb
+C:\Users\beefarino\Documents\Pluralsight\demo\XmlLayout\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\Pluralsight\demo\XmlLayout\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\Pluralsight\demo\XmlLayout\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\Pluralsight\demo\XmlLayout\bin\Debug\LookAtMyLog.xml
+C:\Users\beefarino\Documents\Pluralsight\demo\XmlLayout\bin\Debug\log4net-events.dtd
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\XmlLayout\bin\Debug\XmlLayout.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\XmlLayout\bin\Debug\LookAtMyLog.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\XmlLayout\bin\Debug\log4net-events.dtd
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\XmlLayout\bin\Debug\XmlLayout.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\XmlLayout\bin\Debug\XmlLayout.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\XmlLayout\obj\x86\Debug\XmlLayout.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\XmlLayout\obj\x86\Debug\XmlLayout.pdb

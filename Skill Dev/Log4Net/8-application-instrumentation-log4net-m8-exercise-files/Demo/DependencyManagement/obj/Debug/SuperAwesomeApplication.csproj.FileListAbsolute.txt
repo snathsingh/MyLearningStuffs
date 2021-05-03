@@ -1,0 +1,11 @@
+C:\Users\beefarino\Documents\Pluralsight\mantras\Demo\DependencyInjectionAndLog4Net\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\Pluralsight\mantras\Demo\DependencyInjectionAndLog4Net\bin\Debug\SuperAwesomeApplication.exe.config
+C:\Users\beefarino\Documents\Pluralsight\mantras\Demo\DependencyInjectionAndLog4Net\bin\Debug\SuperAwesomeApplication.exe
+C:\Users\beefarino\Documents\Pluralsight\mantras\Demo\DependencyInjectionAndLog4Net\bin\Debug\SuperAwesomeApplication.pdb
+C:\Users\beefarino\Documents\Pluralsight\mantras\Demo\DependencyInjectionAndLog4Net\bin\Debug\Common.dll
+C:\Users\beefarino\Documents\Pluralsight\mantras\Demo\DependencyInjectionAndLog4Net\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\Pluralsight\mantras\Demo\DependencyInjectionAndLog4Net\bin\Debug\Common.pdb
+C:\Users\beefarino\Documents\Pluralsight\mantras\Demo\DependencyInjectionAndLog4Net\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\Pluralsight\mantras\Demo\DependencyInjectionAndLog4Net\obj\Debug\SuperAwesomeApplication.exe
+C:\Users\beefarino\Documents\Pluralsight\mantras\Demo\DependencyInjectionAndLog4Net\obj\Debug\SuperAwesomeApplication.pdb
+C:\Users\beefarino\Documents\Pluralsight\mantras\Demo\DependencyInjectionAndLog4Net\bin\Debug\log4net.config

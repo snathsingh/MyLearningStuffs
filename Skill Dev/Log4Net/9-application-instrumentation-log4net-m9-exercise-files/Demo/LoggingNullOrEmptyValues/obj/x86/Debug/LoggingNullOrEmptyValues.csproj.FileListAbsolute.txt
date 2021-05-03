@@ -1,0 +1,10 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingNullOrEmptyValues\bin\Debug\LoggingNullOrEmptyValues.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingNullOrEmptyValues\bin\Debug\LoggingNullOrEmptyValues.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingNullOrEmptyValues\bin\Debug\LoggingNullOrEmptyValues.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingNullOrEmptyValues\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingNullOrEmptyValues\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingNullOrEmptyValues\obj\x86\Debug\LoggingNullOrEmptyValues.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingNullOrEmptyValues\obj\x86\Debug\LoggingNullOrEmptyValues.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingNullOrEmptyValues\bin\Debug\LoggingNullOrEmptyValues.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingNullOrEmptyValues\obj\x86\Debug\LoggingNullOrEmptyValues.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Advanced\Demo\LoggingNullOrEmptyValues\obj\x86\Debug\LoggingNullOrEmptyValues.pdb

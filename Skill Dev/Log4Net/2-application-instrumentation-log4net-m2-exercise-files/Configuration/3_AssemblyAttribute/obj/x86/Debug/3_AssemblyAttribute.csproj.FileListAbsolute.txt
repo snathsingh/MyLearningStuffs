@@ -1,0 +1,7 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\3_AssemblyAttribute\bin\Debug\3_AssemblyAttribute.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\3_AssemblyAttribute\bin\Debug\3_AssemblyAttribute.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\3_AssemblyAttribute\bin\Debug\3_AssemblyAttribute.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\3_AssemblyAttribute\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\3_AssemblyAttribute\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\3_AssemblyAttribute\obj\x86\Debug\3_AssemblyAttribute.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\project\Configuration\3_AssemblyAttribute\obj\x86\Debug\3_AssemblyAttribute.pdb

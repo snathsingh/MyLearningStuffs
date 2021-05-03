@@ -1,0 +1,15 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\3.1_ILogInterfaceConditionalProperties\bin\Debug\ILogInterfaceConditionalProperties.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\3.1_ILogInterfaceConditionalProperties\bin\Debug\ILogInterfaceConditionalProperties.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\3.1_ILogInterfaceConditionalProperties\bin\Debug\ILogInterfaceConditionalProperties.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\3.1_ILogInterfaceConditionalProperties\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\3.1_ILogInterfaceConditionalProperties\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\3.1_ILogInterfaceConditionalProperties\obj\x86\Debug\ILogInterfaceConditionalProperties.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Loggers\demo\3.1_ILogInterfaceConditionalProperties\obj\x86\Debug\ILogInterfaceConditionalProperties.pdb
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\3.1_ILogInterfaceConditionalProperties\bin\Debug\ILogInterfaceConditionalProperties.exe.config
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\3.1_ILogInterfaceConditionalProperties\bin\Debug\ILogInterfaceConditionalProperties.exe
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\3.1_ILogInterfaceConditionalProperties\bin\Debug\ILogInterfaceConditionalProperties.pdb
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\3.1_ILogInterfaceConditionalProperties\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\3.1_ILogInterfaceConditionalProperties\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\3.1_ILogInterfaceConditionalProperties\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\3.1_ILogInterfaceConditionalProperties\obj\x86\Debug\ILogInterfaceConditionalProperties.exe
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\3.1_ILogInterfaceConditionalProperties\obj\x86\Debug\ILogInterfaceConditionalProperties.pdb

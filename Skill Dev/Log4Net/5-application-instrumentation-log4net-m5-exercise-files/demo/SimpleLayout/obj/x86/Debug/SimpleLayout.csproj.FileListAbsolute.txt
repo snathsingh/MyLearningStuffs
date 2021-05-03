@@ -1,0 +1,13 @@
+C:\Users\beefarino\Documents\Pluralsight\demo\SimpleLayout\bin\Debug\SimpleLayout.exe.config
+C:\Users\beefarino\Documents\Pluralsight\demo\SimpleLayout\bin\Debug\SimpleLayout.exe
+C:\Users\beefarino\Documents\Pluralsight\demo\SimpleLayout\bin\Debug\SimpleLayout.pdb
+C:\Users\beefarino\Documents\Pluralsight\demo\SimpleLayout\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\Pluralsight\demo\SimpleLayout\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\Pluralsight\demo\SimpleLayout\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\Pluralsight\demo\SimpleLayout\obj\x86\Debug\SimpleLayout.exe
+C:\Users\beefarino\Documents\Pluralsight\demo\SimpleLayout\obj\x86\Debug\SimpleLayout.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\SimpleLayout\bin\Debug\SimpleLayout.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\SimpleLayout\bin\Debug\SimpleLayout.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\SimpleLayout\bin\Debug\SimpleLayout.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\SimpleLayout\obj\x86\Debug\SimpleLayout.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\LayoutsAndPatterns\demo\SimpleLayout\obj\x86\Debug\SimpleLayout.pdb

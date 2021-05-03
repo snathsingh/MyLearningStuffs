@@ -1,0 +1,25 @@
+ERROR - A fatal unhandled exception has occurred
+System.ApplicationException: This will end the process!
+   at LoggingingTheUnhandledException.Program.Main(String[] args) in C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingingTheUnhandledException\Program.cs:line 20
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+ERROR - A fatal unhandled exception has occurred
+System.ApplicationException: This will end the process!
+   at LoggingingTheUnhandledException.Program.Main(String[] args) in C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingingTheUnhandledException\Program.cs:line 20
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+ERROR - A fatal unhandled exception has occurred
+System.ApplicationException: This will end the process!
+   at LoggingingTheUnhandledException.Program.Main(String[] args) in C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingingTheUnhandledException\Program.cs:line 20

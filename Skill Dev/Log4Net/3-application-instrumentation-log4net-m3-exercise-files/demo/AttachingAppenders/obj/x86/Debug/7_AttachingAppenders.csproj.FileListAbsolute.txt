@@ -1,0 +1,17 @@
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\ConfigureInCode\bin\Debug\ConfigureInCode.exe.config
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\ConfigureInCode\bin\Debug\ConfigureInCode.exe
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\ConfigureInCode\bin\Debug\ConfigureInCode.pdb
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\ConfigureInCode\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\ConfigureInCode\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\ConfigureInCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\ConfigureInCode\obj\x86\Debug\ConfigureInCode.exe
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\ConfigureInCode\obj\x86\Debug\ConfigureInCode.pdb
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\ConfigureInCode\bin\Debug\AttachingAppenders.exe.config
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\AttachingAppenders\bin\Debug\AttachingAppenders.exe.config
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\AttachingAppenders\bin\Debug\AttachingAppenders.exe
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\AttachingAppenders\bin\Debug\AttachingAppenders.pdb
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\AttachingAppenders\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\AttachingAppenders\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\AttachingAppenders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\AttachingAppenders\obj\x86\Debug\AttachingAppenders.exe
+C:\Users\beefarino\Documents\Pluralsight\loggers\demo\AttachingAppenders\obj\x86\Debug\AttachingAppenders.pdb

@@ -1,0 +1,16 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingCodeIsStillCode\bin\Debug\LoggingCodeIsStillCode.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingCodeIsStillCode\bin\Debug\LoggingCodeIsStillCode.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingCodeIsStillCode\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingCodeIsStillCode\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingCodeIsStillCode\obj\x86\Debug\LoggingCodeIsStillCode.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingCodeIsStillCode\obj\x86\Debug\LoggingCodeIsStillCode.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingCodeIsStillCode\bin\Debug\LoggingCodeIsStillCode.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Solution1\LoggingCodeIsStillCode\obj\x86\Debug\LoggingCodeIsStillCode.csprojResolveAssemblyReference.cache
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingCodeIsStillCode\bin\Debug\LoggingCodeIsStillCode.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingCodeIsStillCode\obj\x86\Debug\LoggingCodeIsStillCode.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingCodeIsStillCode\obj\x86\Debug\LoggingCodeIsStillCode.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingCodeIsStillCode\bin\Debug\LoggingCodeIsStillCode.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingCodeIsStillCode\bin\Debug\LoggingCodeIsStillCode.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingCodeIsStillCode\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingCodeIsStillCode\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\BestPractices\Demo\LoggingCodeIsStillCode\obj\x86\Debug\LoggingCodeIsStillCode.csprojResolveAssemblyReference.cache

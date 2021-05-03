@@ -1,0 +1,7 @@
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\ChainingFilters\bin\Debug\ChainingFilters.exe.config
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\ChainingFilters\bin\Debug\ChainingFilters.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\ChainingFilters\bin\Debug\ChainingFilters.pdb
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\ChainingFilters\bin\Debug\log4net.dll
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\ChainingFilters\bin\Debug\log4net.xml
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\ChainingFilters\obj\x86\Debug\ChainingFilters.exe
+C:\Users\beefarino\Documents\PluralSight\log4net\Filters\demo\Demo\ChainingFilters\obj\x86\Debug\ChainingFilters.pdb
